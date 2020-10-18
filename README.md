@@ -36,4 +36,5 @@ Features
 - Manage game DB with manual entry correction
 
 
-
+Research Notes:
+Steam Store API (https://wiki.teamfortress.com/wiki/User:RJackson/StorefrontAPI)
